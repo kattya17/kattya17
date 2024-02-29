@@ -73,7 +73,7 @@
 </p>
 
 ## Mis Redes
-<a href="www.linkedin.com/in/kattya-torrez-dev"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=linkedin&logoColor=white&color=black"></a>
+<a href="https://www.linkedin.com/in/kattya-torrez-dev/"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=linkedin&logoColor=white&color=black"></a>
 <a href="https://www.youtube.com/@kattyatorrez3396" ><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=youtube&logoColor=white&color=black"></a>
 <a href="https://www.instagram.com/kattys_cecili?igsh=emZ2MWx3Z2RtMXcz"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=instagram&logoColor=white&color=black"></a>
 
