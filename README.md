@@ -1,10 +1,10 @@
 
 Hola 👋, Soy Kattya 😄
-<!--
-**kattya17/kattya17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Sobre mi
+
+
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 
+## Sobre mi
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Hola 👋, Soy Kattya 😄
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
