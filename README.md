@@ -77,6 +77,17 @@
 <a href="https://www.youtube.com/@kattyatorrez3396" ><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=youtube&logoColor=white&color=black"></a>
 <a href="https://www.instagram.com/kattys_cecili?igsh=emZ2MWx3Z2RtMXcz"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=instagram&logoColor=white&color=black"></a>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kattya17&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ &emsp;
+![](https://github-readme-stats.vercel.app/api?username=kattya17&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kattya17&theme=merko&hide_border=false)<br/>
+ 
+
+
+
+
 
 
 
