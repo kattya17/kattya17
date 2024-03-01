@@ -71,6 +71,9 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
+## 👉Sobre mis proyectos
+<a href="https://bitly.ws/3edPS"><img src="https://shields-io.translate.goog/badge/-bigmarker?logo=notion&color=black"></a>
+
 
 
 ### Educacion
@@ -85,6 +88,7 @@
 <a href="https://www.linkedin.com/in/kattya-torrez-dev/"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=linkedin&logoColor=white&color=black"></a>
 <a href="https://www.youtube.com/@kattyatorrez3396" ><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=youtube&logoColor=white&color=black"></a>
 <a href="https://www.instagram.com/kattys_cecili?igsh=emZ2MWx3Z2RtMXcz"><img alt="Static Badge" src="https://shields-io.translate.goog/badge/-maker?style=flat&logo=instagram&logoColor=white&color=black"></a>
+
 
 # 📊 Estados GitHub :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kattya17&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
