@@ -75,7 +75,7 @@
 </p>
 
 ## 👉Sobre mis proyectos
-<a href="https://bitly.ws/3edPS"><img src="https://shields-io.translate.goog/badge/-bigmarker?logo=notion&color=black"></a>
+<a href="https://cord-mimosa-dd8.notion.site/Mi-portafolio-93c5e0ec409c457dbfeda4b8cf755ea5"><img src="https://shields-io.translate.goog/badge/-bigmarker?logo=notion&color=black"></a>
 
 
 
