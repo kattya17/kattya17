@@ -4,7 +4,7 @@
 
 <h3 align="center">Estudiante de Ingeniería en Sistemas | Desarrolladora Web </h3>
 
-<p align="center">Me encanta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta enfrentar nuevos desafíos y adquirir nuevas habilidades. Disfruto conocer gente nueva, intercambiar ideas, difundir conocimientos y positividad.</p>
+<p align="center">Me encanta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta enfrentar nuevos desafíos y adquirir nuevas habilidades. Disfruto conocer gente nueva, intercambiar ideas asi como difundir conocimiento</p>
 
 ## Sobre mi
 
