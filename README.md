@@ -2,7 +2,7 @@
 <h1 align="center"> Hola 👋, Soy Kattya  </h1>
 
 
-<h3 align="center">Estudiante de Ingeniería en Sistemas | Desarrolladora Web </h3>
+<h3 align="center">Ingeniería en Sistemas | Desarrolladora Web </h3>
 
 <p align="center">Me encanta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta enfrentar nuevos desafíos y adquirir nuevas habilidades. Disfruto conocer gente nueva, intercambiar ideas asi como difundir conocimiento</p>
 
@@ -75,7 +75,7 @@
 </p>
 
 ## 👉Sobre mis proyectos
-<a href="https://cord-mimosa-dd8.notion.site/Mi-portafolio-93c5e0ec409c457dbfeda4b8cf755ea5"><img src="https://shields-io.translate.goog/badge/-bigmarker?logo=notion&color=black"></a>
+<a href="https://able-catfish-80c.notion.site/Mi-portafolio-10c2b755948d80e68fb1cf933b0e93dd"></a>
 
 
 
